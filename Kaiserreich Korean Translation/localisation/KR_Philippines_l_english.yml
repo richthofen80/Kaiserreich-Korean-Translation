@@ -58,11 +58,11 @@ PHI_JAP_Sabah_nope:0 "They've decided to keep Sabah for themselves"
 syndicalist_asia:0 "동방 생디칼리스트 연합"
 
 ### Events ###
-phil.0.t:0 "A Path Towards Independence"
+phil.0.t:0 "독립을 향한 길"
 phil.0.d:0 "The Philippines were a Spanish colony until late 1898, when the United States claimed them as a war prize from Spain. Years of violent struggle for independence followed, and as the economic and political crisis in America began to worsen, they finally bore fruit. In 1934, The Tydings-McDuffie Act was passed, creating the Commonwealth of the Philippines with an elected government under Manuel Quezon and a constitution based upon that of the United States, while Washington retained control of the country's foreign affairs and military. More importantly, it stipulated that after ten years of transition, the archipelago would become a fully independent republic. But storm clouds are gathering over America. Will the Philippines achieve independence sooner than expected, and will that lead to them becoming prey for yet another major empire? Only time will tell..."
 phil.0.a:0 "Viva la Filipinas!"
 
-phil.1.t:0 "Syndicalist Uprising in Manilla"
+phil.1.t:0 "마닐라에서의 생디칼리스트 봉기"
 phil.1.d:0 "As we have peacefully achieved independence from the United States due to their chaotic Civil War, our young Commonwealth is already facing the dangers of syndicalism. Inspired by both the Combined Syndicates' uprising in America and by the Bharatiya Commune in India, a group of disgruntled army officers have ordered their units to march towards our capital, where they have joined forces with bands of peasants and industrial workers. They are planning to establish a Syndicalist state on our archipelago!"
 phil.1.a:0 "Rebels seize the capital and prepare to establish a Syndicalist regime."
 phil.1.b:0 "Order our forces to resist the uprising."
@@ -83,7 +83,7 @@ phil.6.a:0 "Expand our armed forces, this will move our economy."
 phil.6.b:0 "We must expand our industrial capacity."
 phil.6.c:0 "Explore our natural resources - mining and forestry."
 
-phil.7.t:0 "Economic Development Plan"
+phil.7.t:0 "경제 개발 계획"
 phil.7.d:0 "As we have decided to undertake a plan to develop our economy and prevent any major crisis, we must now decide who will help us on this project. Shall we look for foreign support, or can the Philippines do this all by themselves?"
 phil.7.a:0 "Germany is the world's mightiest nation, they shall help us on this."
 phil.7.b:0 "Japan is our natural partner."
